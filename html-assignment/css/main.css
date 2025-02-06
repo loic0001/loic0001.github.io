@@ -1,6 +1,15 @@
-h1 {
-    font-family: "Loick Rurangwa", "Courier New", monospace;
-  }
-  body {
-    color :darkgreen;
-  }
+body{
+  font-family: Verdana, sans-serif;
+  font-size: 18px;
+}
+header, footer{background-color: #8B5D33;
+}
+.site-title {
+  color: #869D7A;
+}
+#R3{
+  box-shadow: 0px 0px 2px 1px rgba(0, 0, 0, 1);
+}
+ul{
+  list-style-type: square;
+}
