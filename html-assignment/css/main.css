@@ -1,3 +1,6 @@
-.h1 {
+h1 {
     font-family: "Loick Rurangwa", "Courier New", monospace;
+  }
+  body {
+    color :darkgreen;
   }
