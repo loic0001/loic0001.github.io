@@ -13,3 +13,12 @@ header, footer{background-color: #8B5D33;
 ul{
   list-style-type: square;
 }
+ul li:nth-child(1){
+  background-color: #A4C2A8;
+}
+ul li:nth-child(2){
+background-color: #759EB8;
+}
+nav.no-bullets{
+  list-style-type: none;
+}
