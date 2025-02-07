@@ -19,6 +19,16 @@ ul li:nth-child(1){
 ul li:nth-child(2){
 background-color: #759EB8;
 }
-nav.no-bullets{
+ul {
   list-style-type: none;
+}
+a:link {
+  text-decoration: none;
+}
+a:link {
+  background-color: #F6F5AE;
+  border: 1000000px #171738;
+}
+a:hover {
+  background-color: #8FC0A9;
 }
