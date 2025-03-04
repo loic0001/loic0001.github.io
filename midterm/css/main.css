@@ -19,9 +19,9 @@ a:link {
     
 }
 .centered {
-    background: url(/images/lone-starfish-wide.jpg) bottom;
+    background: url(../images/lone-starfish-wide.jpg) bottom;
     text-align: center;
-    padding: 60px 0;
+    padding: 70px 0;
 }
 body {
     font-family: arial, sans-serif;
@@ -55,9 +55,6 @@ nav li {
     display: block;
     clear: both;
 }
-/* .box {
-    text-align: center;
-} */
 #Yourname {
     width: 99%;
 }
