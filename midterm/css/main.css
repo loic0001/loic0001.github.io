@@ -22,6 +22,7 @@ a:link {
     background: url(../images/lone-starfish-wide.jpg) bottom;
     text-align: center;
     padding: 70px 0;
+    /* this is for the backgroud picture on the header */
 }
 body {
     font-family: arial, sans-serif;
@@ -40,15 +41,16 @@ nav li {
     display: inline;
     margin: 0 70px;
     position: relative;
+    /* this is to link the links to their respective part */
 }
-.image img{
+/* .image img{
     width: 200px;
-}
+} */
 .img .box{
-    width: 200px;
+    /* width: 200px; */
     margin: 0 20px;
     float: left;
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
 }
 .clearfix::after {
     content:"";
@@ -70,6 +72,7 @@ nav li {
     border-spacing: 10px 30px;
     display: block;
     padding: 40px;
+    /* this is for the boarder in the contact part */
 }
 footer {
     text-align: right;
