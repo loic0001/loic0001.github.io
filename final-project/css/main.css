@@ -469,6 +469,11 @@ footer p {
 	padding: 0;
 	text-decoration: underline;
 }
+iframe {
+	border: 0;
+	width: 100%;
+	height: 300px;
+}
 
 /* Media query for screens with minimum width of 760px */
 @media screen and (min-width:760px) {
